@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 { 
- int a[100]={1,2,1,4,5,4};
+ int a[100]={1,2,1,4,5,4,5,5};
  int n=6,count,i,j;
  
  for(i=0;i<n;i++){
