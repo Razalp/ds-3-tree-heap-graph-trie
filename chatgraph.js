@@ -55,6 +55,7 @@ graph.addEdge("B", "C");
 graph.display();
 console.log(graph.hasEdge("A", "B"));
 console.log(graph.hasEdge("A", "C"));
+console.log(graph.hasEdge("A", "B"));
 graph.removeEdge("A", "B");
 graph.removeVertex("B");
 graph.display();
